@@ -5,11 +5,6 @@
   Create two separate queries to find the temperature for the month of June and December. Convert these two queries into Pandas DataFrames and then into a summary statistics to be compared. That way, W. Avy can gain better judgment for the ice cream shop.
   
 ## Results
-### Results for Both June and December
-![alt text](![June_Temps](https://user-images.githubusercontent.com/90425412/143796469-cc7d7b41-4fbe-482f-90cd-67da60f70613.png)
-
-
-![alt text](![June_Temps](https://user-images.githubusercontent.com/90425412/143796496-83a6c594-4a48-42c1-9f2a-3f660257e2e9.png)
 
 * The result for each month is very similar. The average temperature in December is 71 and for June is 75 degrees.
 
